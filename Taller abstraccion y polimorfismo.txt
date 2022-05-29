@@ -1,0 +1,4 @@
+Se entrega taller con clase abstracta Spaceship que permite armar de forma
+dinamica una de las varias naves dependiendo del input que el usuario digite
+por consola. Acto seguido un ciclo while permite acelerar hacia el destino
+hasta que se llegue a este o hasta que el usuario decida salir.
